@@ -1968,7 +1968,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 204.47 74.93 0)
 			(effects
 				(font
@@ -2112,7 +2112,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 217.17 29.21 0)
 			(effects
 				(font
@@ -2190,7 +2190,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 217.17 74.93 0)
 			(effects
 				(font
@@ -2268,7 +2268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 187.96 29.21 0)
 			(effects
 				(font
@@ -2346,7 +2346,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 208.28 59.69 0)
 			(effects
 				(font
@@ -2424,7 +2424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 198.12 74.93 0)
 			(effects
 				(font
@@ -2569,7 +2569,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 201.93 59.69 0)
 			(effects
 				(font
@@ -2647,7 +2647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 210.82 74.93 0)
 			(effects
 				(font
@@ -2725,7 +2725,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 191.77 74.93 0)
 			(effects
 				(font
@@ -2803,7 +2803,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 195.58 59.69 0)
 			(effects
 				(font
@@ -2879,7 +2879,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.5x2.5mm"
 			(at 125.73 54.61 0)
 			(effects
 				(font
@@ -2943,7 +2943,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.5x2.5mm"
 			(at 125.73 60.96 0)
 			(effects
 				(font
@@ -3211,7 +3211,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 214.63 59.69 0)
 			(effects
 				(font
@@ -3289,7 +3289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:Bivar_1206_SMD"
 			(at 189.23 59.69 0)
 			(effects
 				(font
@@ -3366,7 +3366,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 127 46.228 90)
 			(effects
 				(font
