@@ -52,16 +52,6 @@
 		(layer "F.SilkS")
 		(uuid "aad4ebc8-b531-4cb6-a12f-3a02dd94627f")
 	)
-	(fp_text user "E"
-		(at 1 0 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "c5d28011-1af4-4e98-9af4-d4f1efee47d5")
-		(effects
-			(font (size 1 1) (thickness 0.1))
-			(justify left bottom)
-		)
-	)
 	(pad "1" smd rect
 		(at 0 1.75)
 		(size 1.5 1.5)

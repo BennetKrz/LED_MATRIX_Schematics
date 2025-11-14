@@ -2606,6 +2606,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 140.97) (xy 186.69 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9634ce6e-a766-41b5-b5ab-007a3f76bf74")
+	)
+	(wire
+		(pts
 			(xy 260.35 118.11) (xy 260.35 110.49)
 		)
 		(stroke
@@ -2613,6 +2623,16 @@
 			(type default)
 		)
 		(uuid "99b72a11-26a5-4a10-81a5-2bdcf4323f2f")
+	)
+	(wire
+		(pts
+			(xy 186.69 146.05) (xy 189.23 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ab000dc-a317-4af5-9669-93f26c1b6264")
 	)
 	(wire
 		(pts
@@ -3111,7 +3131,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized_US"
+		(property "Value" "4.7uF"
 			(at 232.41 150.4949 0)
 			(effects
 				(font
@@ -3120,7 +3140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder"
 			(at 228.6 149.86 0)
 			(effects
 				(font
@@ -3549,7 +3569,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 219.71 151.1299 0)
 			(effects
 				(font
@@ -3558,7 +3578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder"
 			(at 216.8652 153.67 0)
 			(effects
 				(font
@@ -4225,7 +4245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 165.1 99.568 90)
 			(effects
 				(font
@@ -4293,7 +4313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 162.56 123.19 0)
 			(effects
 				(font
@@ -4357,7 +4377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 162.56 102.87 0)
 			(effects
 				(font
@@ -4577,7 +4597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 162.56 125.73 0)
 			(effects
 				(font
@@ -4793,7 +4813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 162.56 105.41 0)
 			(effects
 				(font
@@ -4857,7 +4877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 162.56 97.79 0)
 			(effects
 				(font
