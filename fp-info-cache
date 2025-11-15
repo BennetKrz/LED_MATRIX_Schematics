@@ -1,4 +1,4 @@
-26433633458320221
+26435396672556400
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61466,6 +61466,13 @@ Bivar_1206_SMD
 0
 2
 2
+Footprints
+HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm_Mask2.4x6.17mm_ThermalVias_OnlyFrontCopper
+HTSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; thermal pad
+TSSOP HTSSOP 0.65 thermal pad
+0
+54
+29
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
