@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "LED_MATRIX.kicad_prl",
+    "filename": "LedMatrix.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

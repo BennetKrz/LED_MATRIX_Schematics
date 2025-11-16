@@ -476,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LED_MATRIX.kicad_pro",
+    "filename": "LedMatrix.kicad_pro",
     "version": 3
   },
   "net_settings": {
