@@ -1946,6 +1946,12 @@
 		)
 	)
 	(junction
+		(at 241.3 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0787131e-a2c2-4be8-bd4b-101bdbb24d64")
+	)
+	(junction
 		(at 228.6 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1998,6 +2004,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8304d868-d114-45cf-bb7c-6ace41c2c3a8")
+	)
+	(junction
+		(at 228.6 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ef74762-e6e2-4099-980b-74af967eea4b")
 	)
 	(junction
 		(at 260.35 86.36)
@@ -2269,6 +2281,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 142.24) (xy 241.3 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3475911f-1bf2-4642-9c6a-0bbb6e6872a5")
+	)
+	(wire
+		(pts
 			(xy 252.73 111.76) (xy 218.44 111.76)
 		)
 		(stroke
@@ -2346,6 +2368,16 @@
 			(type default)
 		)
 		(uuid "4e295a12-d9a1-429d-904a-0f652c90356c")
+	)
+	(wire
+		(pts
+			(xy 228.6 157.48) (xy 241.3 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "506298b3-4ebf-48e5-bb2d-3dfc9a33abea")
 	)
 	(wire
 		(pts
@@ -2759,7 +2791,17 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 142.24) (xy 273.05 142.24)
+			(xy 241.3 157.48) (xy 241.3 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b0ebaff-8e8b-41d0-8592-1d5f22a6f8df")
+	)
+	(wire
+		(pts
+			(xy 228.6 142.24) (xy 241.3 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2926,6 +2968,16 @@
 			(type default)
 		)
 		(uuid "b1db0e40-2ec3-481b-beeb-d161693654a2")
+	)
+	(wire
+		(pts
+			(xy 241.3 142.24) (xy 273.05 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b300f4f2-626b-4900-a487-27d59d0f4322")
 	)
 	(wire
 		(pts
@@ -4413,6 +4465,76 @@
 			(project "LED_MATRIX"
 				(path "/3e9d6c2e-f289-4b1b-ad37-c26dbc105080"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 241.3 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d723050-8cff-4395-af60-660cb94afc04")
+		(property "Reference" "C3"
+			(at 245.11 147.9549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 245.11 150.4949 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Footprints:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder"
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a50d7bb5-ba71-4a7e-a907-5295e167a16b")
+		)
+		(pin "2"
+			(uuid "963a143e-d262-45bf-b41f-e2a7748ab483")
+		)
+		(instances
+			(project "LedMatrix"
+				(path "/3e9d6c2e-f289-4b1b-ad37-c26dbc105080"
+					(reference "C3")
 					(unit 1)
 				)
 			)
