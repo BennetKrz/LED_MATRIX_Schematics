@@ -3194,7 +3194,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 245.11 101.6 0)
 			(effects
 				(font
@@ -3475,7 +3475,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 260.35 80.01 0)
 			(effects
 				(font
@@ -3553,7 +3553,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 260.35 101.6 0)
 			(effects
 				(font
@@ -3631,7 +3631,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 229.87 80.01 0)
 			(effects
 				(font
@@ -3846,7 +3846,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 252.73 121.92 0)
 			(effects
 				(font
@@ -3924,7 +3924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 237.49 101.6 0)
 			(effects
 				(font
@@ -4133,7 +4133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 245.11 121.92 0)
 			(effects
 				(font
@@ -4211,7 +4211,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 252.73 101.6 0)
 			(effects
 				(font
@@ -4289,7 +4289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 229.87 101.6 0)
 			(effects
 				(font
@@ -4367,7 +4367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 237.49 121.92 0)
 			(effects
 				(font
@@ -4840,7 +4840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 260.35 121.92 0)
 			(effects
 				(font
@@ -4918,7 +4918,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Footprints:Bivar_1206_SMD"
+		(property "Footprint" "Footprints:SM1206UWCIL"
 			(at 229.87 121.92 0)
 			(effects
 				(font
